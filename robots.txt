@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aticisi.github.io/sitemap.html.gz
+Sitemap: https://aticisi.github.io/app/sitemap.html.gz
+Sitemap: https://aticisi.github.io/assets/sitemap.html.gz
+Sitemap: https://aticisi.github.io/css/sitemap.html.gz
+Sitemap: https://aticisi.github.io/data/sitemap.html.gz
+Sitemap: https://aticisi.github.io/includes/sitemap.html.gz
+Sitemap: https://aticisi.github.io/item/sitemap.html.gz
+Sitemap: https://aticisi.github.io/src/sitemap.html.gz
